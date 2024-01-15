@@ -1,0 +1,653 @@
+.loi{
+    margin-left: 603px;
+    margin-top: 28px;
+}
+.sr-only{
+    background-color: black!important;
+}
+.altrcr{
+    position: relative;
+    left: 550px;
+    font-size: 12px !important;
+    height: 15px !important;
+    border-radius:100%;
+    background-color: rgb(39, 39, 39) !important;
+    width: 15px !important;
+ 
+}
+
+.ic{
+    padding: 20px 20px;
+    font-size: 18px; 
+    font-weight: 400;
+    position: relative;
+    top: -20px;
+    left: -10px;
+}
+*{
+    font-family: "Avenir Next", sans-serif;
+}
+.ic1{
+    padding: 20px 20px;
+    font-size: 18px; 
+    font-weight: 400;
+    position: relative;
+    top: -2px;
+}
+.ul li a{
+    padding: 10px 20px !important;
+   color: rgb(39, 39, 39) !important;
+   font-size: 14px !important; 
+   font-weight: 300 !important;
+}
+.ul{
+    margin-top: 10px;
+    margin-left: 310px;
+}
+.mt{
+    margin-top: 10px;
+}
+.card1{
+    background-color: rgb(255,255,255,.7);
+    margin-left: -150px;
+    height: 220px;
+    width: 400px;
+    position: relative;
+    top: -250px;
+   
+}
+.card2p2{
+    background-color: rgb(255,255,255,.7);
+    margin-left: -150px;
+    height: 220px;
+    width: 400px;
+    position: relative;
+    top: -250px;
+}
+.card3{
+    position: relative;
+    top: -250px;
+    margin-left: -140px;
+    background-color:rgb(255, 255, 255,.7);
+    height: 220px;
+    width: 400px;
+   
+}
+
+.card4{
+    margin-left: -150px;
+    background-color:rgb(255, 255, 255,.7);
+    height: 220px;
+    width: 400px;
+   
+}
+
+.h2i1{
+   font-family: "ITC Caslon No 224", serif;
+    text-align: start;
+    margin-left: 20px;
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 400;
+}
+body{
+    overflow-x: hidden;
+}
+.pi1{
+    opacity: 100%;
+    text-align: start;
+    margin-left: 22px;
+    margin-top: 10px;
+    color: rgb(39, 39, 39); 
+    font-size: 16px;
+    font-weight: 400;
+}
+.btni1{
+    opacity:100%;
+    margin-left: -237px;
+    padding: 10px 20px !important;
+    background-color: rgb(39, 39, 39) !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+
+
+.h2i2p2{
+   font-family: "ITC Caslon No 224", serif;
+    text-align: start;
+    margin-left: 20px;
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 400;
+}
+.pi2p2{
+    text-align: start;
+    margin-left: 22px;
+    margin-top: 10px;
+    color: rgb(39, 39, 39); 
+    font-size: 16px;
+    font-weight: 400;
+}
+.btni2p2{
+    margin-left: -237px;
+    padding: 10px 20px !important;
+    background-color: rgb(39, 39, 39) !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+
+.h2i3{
+   font-family: "ITC Caslon No 224", serif;
+    text-align: start;
+    margin-left: 20px;
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 400;
+}
+.pi3{
+    opacity: 100%;
+    text-align: start;
+    margin-left: 22px;
+    margin-top: 10px;
+    color: rgb(39, 39, 39); 
+    font-size: 16px;
+    font-weight: 400;
+}
+.btni3{
+    opacity:100%;
+    margin-left: -237px;
+    padding: 10px 20px !important;
+    background-color: rgb(39, 39, 39) !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+
+
+.h2i4{
+   font-family: "ITC Caslon No 224", serif;
+    text-align: start;
+    margin-left: 20px;
+    color: rgb(39, 39, 39);
+    font-size: 28px;
+    font-weight: 400;
+}
+.pi4{
+    opacity: 100%;
+    text-align: start;
+    margin-left: 22px;
+    margin-top: 10px;
+    color: rgb(39, 39, 39); 
+    font-size: 16px;
+    font-weight: 400;
+}
+.btni4{
+    opacity:100%;
+    margin-left: -237px;
+    padding: 10px 20px !important;
+    background-color: rgb(39, 39, 39) !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+.p12{
+    font-size: 28px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(39, 39, 39);
+    font-family: "ITC Caslon No 224", serif;
+}
+.cfa{
+    background-color: rgb(247, 247, 247) !important;
+}
+
+.li1{
+    list-style: none;
+}
+.li2{
+    list-style: none;
+}
+.li1 a{
+  
+    text-decoration: none;
+    font-size: 20px !important;
+    font-weight: 400;
+    font-family:"ITC Caslon No 224", serif;
+    color: rgb(39, 39, 39);
+}
+.li2 a{
+    text-decoration: underline;
+   margin-left: 25px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Avenir Next", sans-serif;
+    color: rgb(39, 39, 39);
+}
+.li1 a:hover{
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+}
+.li2 a:hover{
+    
+    color: rgb(39, 39, 39);
+}
+
+.cop{
+    border: none !important;
+    position: relative;
+    background-color: transparent !important;
+}
+.ulc{
+    position: relative;
+    top: -330px;
+    left: 80px;
+    opacity: 0;
+    
+}
+.cop:hover  img{
+transition: 0.4s;
+    opacity: 10%;
+}
+.cop:hover .ulc{
+opacity: 1;
+transition: 0.6s !important;
+
+}
+.ip1{
+    width: 80% !important;
+    margin-left: 130px;
+}
+.mdr{
+    color:rgb(87, 87, 87) !important ;
+    background-color: rgb(87, 87, 87) !important;
+ }
+ .mdr1{
+    font-size: 20px !important;
+     color: rgb(87, 87, 87) !important;
+ }
+  
+.sma{
+    color: rgb(87, 87, 87) !important;
+    font-size: 16px !important;
+    font-weight: 400!important;
+} 
+.islm{
+        display: none;
+}
+.brta:focus .ilnd{
+    display: none;
+}
+.brta:focus .islm{
+        display: block;
+}
+.cdhi1{
+    display: none;
+}
+
+.mc:hover > .cdhi1{
+    display: block;
+   
+}
+.mc:hover > .ci1{
+    display: none;
+}
+.button{
+    position: relative;
+    top: -340px;
+    left: 130px;
+    border: none;
+    height: 50px;
+    width: 130px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Avenir Next", sans-serif;
+    color: white;
+   background-color:rgb(204, 204, 204);
+}
+.pr{
+    font-family: "ITC Caslon No 224", serif;
+    font-size: 28px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(39, 39, 39);
+}
+.mc1{
+    border: none !important;
+    background-color: transparent !important;
+}
+.und li a{
+    margin-left: -30px;
+    position: relative;
+    top: -50px;
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+    font-family: "ITC Caslon No 224", serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.und li{
+    list-style: none;
+}
+.mt{
+    margin-top: -70px;
+}
+.prs{
+    margin-top: -60px;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 80px;
+}
+.cd5{
+    border: none !important;
+}
+.card2{
+    position: relative;
+    top: 20px;
+    margin-left: -170px;
+    opacity: 80%;
+    background-color:rgb(255, 255, 255);
+    height: 150px;
+    width: 320px;
+   
+}
+.cardct{
+    position: relative;
+    top: -125px;
+    left: -150px;
+    background-color:transparent;
+    height: 217px;
+    width: 397px;
+   
+}
+
+.btnli1{
+    opacity:100%;
+    margin-left: -237px;
+    padding: 10px 20px !important;
+    background-color: rgb(39, 39, 39) !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+.h2ilm{
+    font-family: "ITC Caslon No 224", serif;
+     text-align: start;
+     margin-left: 20px;
+     color: rgb(39, 39, 39);
+     font-size: 28px;
+     font-weight: 400;
+ }
+ .btyl1 a{
+     text-decoration: none;
+     font-size: 28px;
+     font-weight: 400;
+     color:rgb(39, 39, 39);
+     font-family: "ITC Caslon No 224", serif;
+
+ }
+ .btyl1{
+     list-style: none;
+ }
+ .btyl2{
+    list-style: none;
+    margin-left: 7px;
+}
+.btyl2 a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(39, 39, 39);
+    font-family: "Avenir Next", sans-serif;
+
+}
+.btyl2 a:hover{
+    color:rgb(39, 39, 39);
+    text-decoration: none;
+}
+.btyl1 a:hover{
+    color:rgb(39, 39, 39);
+    text-decoration: none;
+}
+.bty{
+    background-color: transparent !important;
+    margin-left: -40px;
+    margin-top:345px;
+}
+.atr{
+    background-color:#F7F2F2 !important;
+}
+.ir{
+    font-size: 46px;
+    font-weight: 10;
+}
+.crl{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+.bp{
+   
+   margin-left: 4px;
+    font-family:'Playfair Display' !important;
+    font-weight: 400;
+    font-size: 26px;
+    color: rgb(39, 39, 39);
+}
+.bbul li a{
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: 400;
+color: rgb(39, 39, 39);
+font-family: "Avenir Next", sans-serif;
+}
+.bbul li{
+list-style: none;
+}
+.apn{
+    z-index: 1 !important;
+    background-color: white;
+    margin-top: 230px;
+    position: relative !important;
+    left: 30px !important;
+    width: 330px !important;
+    height: 110px !important;    
+    line-height: 25px !important;
+}
+.aubu{
+    position: relative;
+    left: -30px;
+    width: 100%;
+}
+.bbul{
+    margin-left: -35px;
+
+}
+  
+.bc{
+    background-color: #F7F7F7 !important;
+}
+.m1{
+    float: left;
+    margin-left: 45px;
+    width: 250px !important;
+}
+.abr{
+    float: left;
+    margin-left: 10px;
+}
+.hpk{
+    margin-left: 10px;
+    font-family: "ITC Caslon No 224", serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(39, 39, 39);
+}
+.ppk{
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(39, 39, 39);
+}
+.mbr{
+    
+    margin-top: 20px;
+    margin-left: 350px !important;
+}
+.sd{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(39, 39, 39);
+    font-family: "Avenir Next", sans-serif;
+}
+.sd1{
+    margin-top: -138px;
+    margin-left: 205px;
+}
+.sds{
+    color: rgb(39, 39, 39);
+    font-family: "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.mg{
+    font-size: 28px;
+    font-weight: 400;
+    color: rgb(39, 39, 39);
+    font-family: "ITC Caslon No 224", serif;
+}
+.h6v{
+    margin-top: -30px;
+    color: rgb(39, 39, 39);
+    font-family: "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.pkka li a{
+    line-height: 40px;
+    text-decoration: underline;
+    color: rgb(39, 39, 39);
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.pkka li a:hover{
+  
+    color: rgb(39, 39, 39);
+    transition: 0.4s;
+}
+.pkka li{
+    list-style: none;
+}
+.pkka{
+    margin-top: 20px;
+    margin-left: -35px;
+}
+.bc5{
+    background-color: #F7F7F7;
+}
+.nklg{
+    margin-top: 140px;
+  
+}
+.bc9{
+    background-color: #F7F2F2;
+}
+.msr{
+    margin-top: 30px !important;
+}
+.tmc{
+    font-family: 
+    "ITC Caslon No 224", serif;
+    font-size: 20px;
+    font-weight: 400;
+    color:rgb(39,39,39) ;
+}
+.tmc1{
+    font-family: 
+    "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(39,39,39) ;
+}
+.bch{
+    background-color: transparent !important;
+    border: none !important;
+}
+.gdo{
+    font-family: 
+    "ITC Caslon No 224", serif;
+    font-size: 20px;
+    font-weight: 400;
+    color:rgb(39,39,39) ;
+}
+.bch1 li a{
+    font-family: 
+    "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(39,39,39) ;
+}
+.bch1 li{
+    list-style: none;
+}
+.bch1 li a:hover{
+    text-decoration: none;
+
+}
+.bch1{
+    position: relative;
+    left: -37px;
+}
+.mdcd{
+    font-family: 
+    "ITC Caslon No 224", serif;
+    font-size: 20px;
+    font-weight: 400;
+    color:rgb(39,39,39) ; 
+}
+.dd{
+    font-family: 
+    "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(39,39,39) ; 
+}
+.ip{
+    font-family: 
+    "Avenir Next", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color:rgb(39,39,39) ; 
+    padding:10px;
+    width:200px;
+    
+}
+.btnp{
+    width: 50px !important;
+    height: 45px !important;
+}
+.lst{
+    text-align: end;
+    font-family: 
+    "Avenir Next", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgb(39,39,39) ; 
+}
+.bch{
+    margin-left: 20px !important;
+}
+.bchc{
+    position: relative !important;
+    left: 100px !important;
+    background-color: transparent !important;
+    border: none !important;
+}
+.bchcp{
+    position: relative !important;
+    left: 80px !important; 
+    background-color: transparent !important;
+    border: none !important;
+
+}

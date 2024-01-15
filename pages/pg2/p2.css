@@ -1,0 +1,139 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,700;1,800;1,900&display=swap');
+
+
+body{
+    font-family: 'dosis' !important;
+}
+.loi{
+    margin-left: 603px;
+    margin-top: 28px;
+}
+
+.ic{
+    padding: 20px 20px;
+    font-size: 18px; 
+    font-weight: 400;
+    position: relative;
+    top: -20px;
+    left: -10px;
+    
+}
+*{
+    font-family: "Avenir Next", sans-serif;
+}
+
+
+
+.thanos1:hover .thanos2{
+    transition: 2s !important;
+
+
+
+    display: none !important;
+
+
+}
+
+
+
+
+.thanos1:hover .thanos{
+    display: block !important;
+    
+
+}
+
+
+
+
+.thanos{
+  
+
+    display: none;
+    font-family: sans-serif,Avenir Next;
+
+
+}
+
+
+
+
+.ic1{
+    padding: 20px 20px;
+    font-size: 18px; 
+    font-weight: 400;
+    position: relative;
+    top: -2px;
+}
+.ul li a{
+    padding: 10px 20px !important;
+   color: rgb(39, 39, 39) !important;
+   font-size: 14px !important; 
+   font-weight: 300 !important;
+}
+.ul{
+    margin-top: 10px;
+    margin-left: 310px;
+}
+.pr{
+    font-family: "ITC Caslon No 224", serif;
+    font-size: 28px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(39, 39, 39);
+}
+.mc1{
+    border: none !important;
+    background-color: transparent !important;
+}
+.cdhi1{
+    display: none;
+}
+.button{
+    position: relative;
+    top: -340px;
+    left: 130px;
+    border: none;
+    height: 50px;
+    width: 130px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Avenir Next", sans-serif;
+    color: white;
+   background-color:rgb(204, 204, 204);
+}
+
+.mc:hover > .cdhi1{
+    display: block;
+   
+}
+.mc:hover > .ci1{
+    display: none;
+}
+.mt{
+    margin-top: -70px;
+}
+.cd5{
+    border: none !important;
+}
+.und li{
+    list-style: none;
+}
+.und li a{
+    margin-left: -30px;
+    position: relative;
+    top: -50px;
+    text-decoration: none;
+    color: rgb(39, 39, 39);
+    font-family: "ITC Caslon No 224", serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.prs{
+    margin-top: -60px;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 80px;
+}
